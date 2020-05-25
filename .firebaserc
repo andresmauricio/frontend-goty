@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-goty-5a976": {
+      "hosting": {
+        "project": [
+          "firestore-goty-5a976"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-goty-5a976"
+  }
+}
